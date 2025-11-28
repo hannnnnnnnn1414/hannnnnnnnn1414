@@ -1,11 +1,22 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### A Full-Stack Web Developer
 
-Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
-Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.sql`, `.svg`
+- 🌍 I'm mostly active within the **Laravel Ecosystem**
+- 💬 Ping me about **laravel**, **web development**, **backend**, **frontend**, **system design**, **database**
+
+### 🚀 Technologies & Skills
+- **Backend:** Laravel, PHP, RESTful API
+- **Frontend:** Bootstrap, HTML, CSS, JavaScript
+- **Database:** MySQL, Query Optimization, Database Design
+- **Tools:** Git/GitHub, MVC Architecture, Flowcharting
+- **Methodologies:** Agile-like Development, Xtreme Programming-like, SDLC
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hannnnnnnnn1414&show_icons=true&theme=radical)
+
+### 📫 Connect with Me
+- LinkedIn: [hanif-fathurrahman-rustanto](www.linkedin.com/in/hanif-fathurrahman-rustanto)
+- Email: haniffathurrahmanrustanto@gmail.com
