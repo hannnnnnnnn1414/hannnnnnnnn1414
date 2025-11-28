@@ -18,5 +18,5 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hannnnnnnnn1414&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-- LinkedIn: [hanif-fathurrahman-rustanto](www.linkedin.com/in/hanif-fathurrahman-rustanto)
+- LinkedIn: [hanif-fathurrahman-rustanto]([www.linkedin.com/in/hanif-fathurrahman-rustanto](https://www.linkedin.com/in/hanif-fathurrahman-rustanto))
 - Email: haniffathurrahmanrustanto@gmail.com
