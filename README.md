@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Hanif!
 
+![Cool GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=hannnnnnnnn1414&color=blueviolet)](https://github.com/hannnnnnnnn1414)
 
 ## 🌱 About Me
@@ -13,7 +15,7 @@
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
+![React](https://media.giphy.com/media/l4FGwmERsjjrnnkOS/giphy.gif)  <!-- GIF React -->
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
 
 ## 📈 GitHub Stats
@@ -23,3 +25,5 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+## 🎉 Fun fact: I love **video games**
+![Gaming GIF](https://media.giphy.com/media/xT9IgpFhboHNkQToT6/giphy.gif)
