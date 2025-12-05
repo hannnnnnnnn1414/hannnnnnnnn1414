@@ -44,9 +44,6 @@
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-00758F?style=flat&logo=pandas&logoColor=white)
 
 
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannnnnnnnn1414&layout=compact&theme=radical)
-
 ### 🔥 Featured Projects
 #### 💼 **Enterprise Systems**
 - **Stock Opname OCR System** - Automated stock data extraction
