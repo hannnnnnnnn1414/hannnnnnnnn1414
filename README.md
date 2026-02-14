@@ -2,7 +2,7 @@
 
 #### A Full-Stack Web Developer
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.sql`
+- ⚙️ I use daily: `.php`, `.js`, `.blade`, `.html`, `.css`, `.sql`
 - 🌍 I'm mostly active within the **Laravel Ecosystem**
 - 📊 Also experienced in: **Data Analysis**, **Machine Learning**, **Data Visualization**
 - 💬 Ping me about **laravel**, **web development**, **backend**, **frontend**, **system design**, **database**
