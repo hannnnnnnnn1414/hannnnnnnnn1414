@@ -7,8 +7,8 @@
 ---
 
 ### 🎧 Now Playing / Mood
-<a href="https://github.com/novatize/spotify-readme">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31as2gyqrbpx4yjkd5yf52x63hqm&cover_image=true&theme=tokyonight&show_offline=true&bar_color=1db954&bar_color_cover=false" alt="Spotify Now Playing" width="400" />
+<a href="https://github.com/ashutosh00710/spotify-readme-stats">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31as2gyqrbpx4yjkd5yf52x63hqm&cover_image=true&theme=tokyonight" />
 </a>
 
 </div>
