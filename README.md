@@ -1,35 +1,44 @@
-<div align="center">
+### Hello there 👋 
 
-# Hanif Fathurrahman Rustanto
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+Ecosystem+Specialist;Next.js+%26+TypeScript+Explorer;Industrial+Digitalization+Builder" alt="Typing SVG" />
+#### A Full-Stack Web Developer & Industrial Information Systems Student
+Currently interning at **PT Kayaba Indonesia**, building enterprise-grade systems that bridge industrial needs with modern web solutions.
 
----
+- ⚙️ **Daily Tech Stack**: `.php` (Laravel), `.js` / `.ts` (Next.js), `.sql`, `.blade`
+- 🌍 **Ecosystem**: Focused on **Laravel** & **Modern JavaScript** (Next.js, Node.js, Prisma)
+- 📊 **Expertise**: Industrial Web Systems, Data Analysis, & Machine Learning
+- 💬 **Ask me about**: system design, backend architecture, and industrial digitalization
 
-### 🎧 Mode: Code & Chrisye 
-![Spotify](https://img.shields.io/badge/Vibe-Whispers_From_Distant_Stars-1DB954?style=flat-square&logo=spotify&logoColor=white) 
+### 🛠️ Tools & Technologies
 
-</div>
+**Frontend & Frameworks:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
----
+**Backend & Runtime:** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-### ⚙️ Daily Tech Stack
-- **Languages:** `.php`, `.js`, `.ts`, `.blade`, `.sql`, `.py`
-- **Frameworks:** **Laravel**, **Next.js**, **Express**, **Tailwind CSS**
-- **Infrastructure:** Ubuntu (Linux), Nginx, VPS Configuration
+**Database & DevOps:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 ### 🔥 Featured Projects
-- **Stock Opname OCR Monitoring** - Enterprise automated data extraction.
-- **Kayaba SSO Portal** - Centralized auth gateway (Next.js & NextAuth).
-- **Headless WA Middleware** - Node.js bridge for CRM sync.
-- **Budget Management System** - Multi-level digital approval workflow.
 
----
+#### 🏢 **Enterprise Systems (PT Kayaba Indonesia)**
+- **Stock Opname OCR Monitoring** - Automated data extraction using Verihubs OCR API.
+- **Kayaba SSO Portal** - Centralized authentication gateway built with **Next.js** and **NextAuth**.
+- **Digitalized Master Budget** - Multi-level approval workflow replacing legacy Excel processes.
+- **Employee Assessment System** - Internal performance tracking for corporate HR.
+
+#### 🛠️ **Middleware & Tools**
+- **Headless WhatsApp Tracking** - Node.js & Express middleware with webhooks for CRM integration.
+- **Stock Monitoring Dashboard** - Real-time inventory tracking with RESTful API.
 
 ### 📫 Connect with Me
 - 💼 LinkedIn: [hanif-fathurrahman-rustanto](https://www.linkedin.com/in/hanif-fathurrahman-rustanto)
 - 📸 Instagram: [@haniv_fr](https://instagram.com/haniv_fr)
-
-<div align="center">
-  <sub>Built with ❤️ and a lot of Chrisye songs.</sub>
-</div>
+- 📧 Email: haniffathurrahmanrustanto@gmail.com
